@@ -1,0 +1,154 @@
+
+Rajesh Kumar Allem                                                                  
+Email: rajeshallem344@gmail.com  
+
+LinkedIn: https://www.linkedin.com/in/rajesh-kumar-allem/                      Mobile: (+91) 8555082139
+_____________________________________________________________________________
+Career objective:
+
+Seeking a position to utilize my skills and abilities in the Front-End (UI)Web Development Industry that offers professional growth while being resourceful, innovative and flexible. Has experience with the successful delivery of high-quality software through development.
+	
+Profile Summary: 
+
+•	3 + years of experience working in a corporate environment as a front-end UI/Web developer. Strong technical skills in complex website development including web-based applications 
+•	Experience developing highly interactive web applications utilizing JavaScript. HTML5. CSS, JSON, React JS and Bootstrap and integrating Restful API's
+•	Experience in writing logic using Javascript, jquery.
+•	Knowledge and work experience in developing single page web application using React JS which consumes rest APIs.
+•	Working experience on CSS Background, CSS Positioning. CSS Text CSS Border, CSS Margin CSS Padding, CSS Table Pseudo Classes, Pseudo Elements and CSS Behaviors in CSS.
+•	Experience on working with Component based architecture of React JS.
+•	Having a good knowledge in GIT version control system.
+•	Good Leadership, Communication and Presentation skills.
+•	Strong problem-Solving skills.
+•	Able to coordinate and communicate with team. Able to work independently and as a part of a team.
+•	Knowledge on GITHUB methodology.
+•	Highly motivated professional with integrity and commitment to quality and perfection
+•	Good analytical skills and innovative problem-solving ability
+
+
+
+Education Profile:
+
+•	B-Tech (CIVIL) Engineering from VBIT, Hyderabad in 2018
+
+Technical Skill set: 
+
+•	Languages/Technology              :	  HTML5,CSS3,Javascript,jquery,React JS
+•	IDEs/Editors		            :  	  VS code,  
+•	Operating Systems                    :            Windows 11/2020/21,Mac OS
+•	Web server/ application server   :             Node, NPM
+•	Version control system              :             GIT.
+
+
+PROJECTS PROFILE
+
+Project#1                                                                                                                   
+ 
+Project Name	: E-commerce project
+Role	           :  Front_End_Developer
+        Technologies     :  React, Redux, JavaScript, HTML5,CSS,Bootstrap.
+
+                                    
+Description:
+
+It is an online shopping App like Flipkart where we see different categories of items, we can select particular category on selecting we see products related to the particular category. Implemented login form where users can login through username and password and can see the products and add products to the cart and can see the added items into the cart and remove the items from the cart. also, we see the price total is calculated and click on the button we can place the order. I used redux toolkit to store the items in the cart and also by using filter functionality we can remove the items. Implemented routing functionality for creating multiple pages. used react hooks like useState, Use navigate, use Effect where ever required. This project is designed as a responsive design also for laptop devices and mobile devices also by using media Queries.
+      
+
+Roles & Responsibilities:
+
+•	Coordinating with the team members on a daily basis to understand the requirements.
+•	Developing responsive template for both mobile and desktop version using HTML5,CSS3 and Bootstrap.
+•	Coordinating the workflow between the graphic designer, the HTML coder, and yourself
+•	Creating self-contained, reusable, and testable modules and components
+•	Validating user actions on the client side and providing responsive feedback
+•	Creating custom, general use modules and components which extend the elements and modules of core React JS
+•	Writing JavaScript code for fetching the data from Rest APIs.
+•	Writing java script code for business logic and client-side validations.
+•	Creating configuration, build, and test scripts for Continuous Integration environments
+•	Cooperating with the back-end developer in the process of building the RESTful API
+•	Reporting the production issues and results to the team lead.
+                                                                                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project#2                                                                                                                  
+
+Project Name	: Book App
+Role	           :  Front_End_Developer
+        Technologies     :  React, Bootstrap , Tailwind CSS , JavaScript , Create context .
+
+                                    
+Description:
+
+Created a Book store, fetched the data through an API and displayed on the web page. Implemented search functionality we can search any book by respective title of the book. Created a button i.e., Add to cart on click book will be added to the cart, on header we see view cart on clicking we move to respective page where we see our cart items, we can remove items from cart also we see the price total is calculated and click on the button we can place the order. this application, I used Create context to store the items in the cart and also by using filter functionality we can remove the items. Implemented routing functionality for creating multiple pages. used react hooks like useState, Usenavigate , use Effect where ever required. This project is designed as a responsive design also for laptop devices and mobile devices also by using media Queries.
+
+
+Roles & Responsibilities:
+
+•	Coordinating with the team members daily to understand the requirements.
+•	Used React JS as UI Library to create a Single Page Application (SPA) which can bind data to specific views and synchronize data with server using Bootstrap, React JS
+•	Worked with CSS3 and bootstrap to create responsive web designs for multiple departments/pages
+•	Debugging using web developer tools on Chrome, Firefox and Internet Explorer
+•	Developing responsive template for both mobile and desktop version using HTML5,CSS3 and Bootstrap.
+•	Creating self-contained, reusable, and testable modules and components
+•	Installing necessary packages and modules and making reusable components which extend the elements and modules of core React JS
+•	Writing java script code for business logic and client-side validations.
+•	Creating configuration, build, and test scripts for Continuous Integration environments
+•	Cooperating with the back-end developer in the process of building the RESTful API
+•	Reporting the production issues and results to the team lead.
+                                                                                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project#3                                                                                                                   
+ 
+Project Name	: Food Delivering APP
+Role	           :  Front_End_Developer
+        Technologies     :  JavaScript,  jQuery, React JS, HTML5,CSS,Bootstrap.
+
+                                    
+Description:
+
+Buit a food delivering app where we see the different items of food, we can also search our favorite food items, we see the respective results of the food item, below the food item we see price and place order for each item. Onclick of any item we see how the recipe made by the respective ingredients. We place the order of the respective food item and we track the order also. Implemented login form where users can login through username and password and can see the products and add products to the cart and can see the added items into the cart and remove the items from the cart. also, we see the price total is calculated and click on the button we can place the order. I used redux toolkit to store the items in the cart and also by using filter functionality we can remove the items. Implemented routing functionality for creating multiple pages. used react hooks like useState, Use navigate, use Effect where ever required. This project is designed as a responsive design also for laptop devices and mobile devices also by using media Queries.
+
+Roles & Responsibilities:
+
+•	Coordinating with the team members daily to understand the requirements.
+•	Used React JS as a UI Library to create a Single Page Application (SPA) which can bind data to specific views and synchronize data with server using Bootstrap, React JS
+•	Developing responsive template for both mobile and desktop version using HTML5,CSS3 and Bootstrap.
+•	Creating self-contained, reusable, and testable modules and components
+•	Installing necessary packages and modules and making reusable components which extend the elements and modules of core React JS
+•	Writing java script code for business logic and client-side validations.
+•	Creating configuration, build, and test scripts for Continuous Integration environments
+•	Cooperating with the back-end developer in the process of building the RESTful API
+•	Reporting the production issues and results to the team lead.
+
+
+
+
+
+
